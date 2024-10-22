@@ -126,8 +126,7 @@ tooltip {
 #custom-sl_end,
 #custom-sr_end,
 #custom-rl_end,
-#custom-rr_end,
-#custom-cava {
+#custom-rr_end {
     color: @main-fg;
     background: @main-bg;
     opacity: 1;
